@@ -1,8 +1,8 @@
 ---
 guid: a6ee3671-af6d-41cd-9c52-8ece08d9b10c
-title: "CommonMark — Every Way to Write Each Construct"
+title: CommonMark — Every Way to Write Each Construct
 seo:
-  title: "CommonMark — Every Way to Write Each Construct"
+  title: CommonMark — Every Way to Write Each Construct
 display:
   toc: true
   outline: true

@@ -1,8 +1,8 @@
 ---
 guid: b05535f4-fa5b-49dc-8e3b-e0f8eadfd001
-title: "GFM test checklist"
+title: GFM test checklist
 seo:
-  title: "GFM test checklist"
+  title: GFM test checklist
 display:
   toc: true
   outline: true

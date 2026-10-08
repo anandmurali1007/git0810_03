@@ -1,8 +1,8 @@
 ---
 guid: 5ecce5f3-930c-42f7-bf22-269f8e9f9357
-title: "GFM 06 · Links, images and autolinks"
+title: GFM 06 · Links, images and autolinks
 seo:
-  title: "GFM 06 · Links, images and autolinks"
+  title: GFM 06 · Links, images and autolinks
 display:
   toc: true
   outline: true
@@ -404,7 +404,7 @@ example.com · www. · `www.example.com` · email@ · a.b-c_d@a.b_
 
 **Renders as**
 
-![Relative to this file](../../../assets/Images/Documentation/PER_KnowledgeBase_Europe.png)
+![Relative to this file](assets/Images/Documentation/PER_KnowledgeBase_Europe.png)
 
 ![Relative to the repository root](assets/Images/Documentation/PER_KnowledgeBase_Europe.png)
 

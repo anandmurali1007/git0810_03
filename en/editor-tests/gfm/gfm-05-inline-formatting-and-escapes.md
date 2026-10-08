@@ -1,8 +1,8 @@
 ---
 guid: 41d925fb-d02e-4fa8-9d6f-e4e1a644d588
-title: "GFM 05 · Inline formatting and escapes"
+title: GFM 05 · Inline formatting and escapes
 seo:
-  title: "GFM 05 · Inline formatting and escapes"
+  title: GFM 05 · Inline formatting and escapes
 display:
   toc: true
   outline: true

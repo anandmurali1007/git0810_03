@@ -1,8 +1,8 @@
 ---
 guid: 76e2ac25-1ff5-41a9-8bce-299862d8f5f9
-title: "GFM 08 · Raw HTML and the tag filter"
+title: GFM 08 · Raw HTML and the tag filter
 seo:
-  title: "GFM 08 · Raw HTML and the tag filter"
+  title: GFM 08 · Raw HTML and the tag filter
 display:
   toc: true
   outline: true

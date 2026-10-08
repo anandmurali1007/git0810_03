@@ -1,14 +1,15 @@
 ---
 guid: 9547b310-7990-4a09-b564-822809ddf60e
-title: "Configure single sign-on"
+title: Configure single sign-on
 seo:
-  title: "Configure single sign-on"
+  title: Configure single sign-on
 display:
   toc: true
   outline: true
 feedback:
   comments: true
 ---
+
  
 An h1 header
 ============

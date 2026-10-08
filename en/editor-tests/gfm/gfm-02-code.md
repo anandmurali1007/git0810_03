@@ -1,8 +1,8 @@
 ---
 guid: 3dccd9a7-41c7-4417-a642-29ec911e372a
-title: "GFM 02 · Code blocks and code spans"
+title: GFM 02 · Code blocks and code spans
 seo:
-  title: "GFM 02 · Code blocks and code spans"
+  title: GFM 02 · Code blocks and code spans
 display:
   toc: true
   outline: true

@@ -1,8 +1,8 @@
 ---
 guid: fe941b0c-17e1-462f-bb45-b9375d1d209b
-title: "GFM 01 · Headings, paragraphs and breaks"
+title: GFM 01 · Headings, paragraphs and breaks
 seo:
-  title: "GFM 01 · Headings, paragraphs and breaks"
+  title: GFM 01 · Headings, paragraphs and breaks
 display:
   toc: true
   outline: true

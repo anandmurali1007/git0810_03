@@ -1,8 +1,8 @@
 ---
 guid: 814a279b-f6b5-4af1-8a97-d0752e5f94d1
-title: "GFM 03 · Lists and task lists"
+title: GFM 03 · Lists and task lists
 seo:
-  title: "GFM 03 · Lists and task lists"
+  title: GFM 03 · Lists and task lists
 display:
   toc: true
   outline: true

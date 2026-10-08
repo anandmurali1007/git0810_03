@@ -1,8 +1,8 @@
 ---
 guid: e0ae636d-6cbe-479a-8f29-8850aca6af0d
-title: "GFM 04 · Block quotes and alerts"
+title: GFM 04 · Block quotes and alerts
 seo:
-  title: "GFM 04 · Block quotes and alerts"
+  title: GFM 04 · Block quotes and alerts
 display:
   toc: true
   outline: true

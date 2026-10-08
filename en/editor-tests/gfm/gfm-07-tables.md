@@ -1,8 +1,8 @@
 ---
 guid: aee4919f-375b-4f6d-851c-ef342ff6eb34
-title: "GFM 07 · Tables"
+title: GFM 07 · Tables
 seo:
-  title: "GFM 07 · Tables"
+  title: GFM 07 · Tables
 display:
   toc: true
   outline: true

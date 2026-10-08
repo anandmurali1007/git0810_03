@@ -12,7 +12,8 @@ feedback:
 
 Artificial intelligence (AI) is the field of building computer systems that perform tasks which normally need human intelligence. These tasks include understanding language, recognising images, making decisions and learning from experience.
 
-Change from Git
+[d360]: # 'snippet name="V1Snippet"'
+[d360]: # 'heading id="narrow-and-general-ai"'
 
 ## Narrow and general AI
 

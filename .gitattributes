@@ -1,0 +1,3 @@
+# Document360 writes Markdown with LF endings and compares bytes on every sync.
+# Without this, a checkout on Windows rewrites every line and each commit looks like a full rewrite.
+*.md text eol=lf

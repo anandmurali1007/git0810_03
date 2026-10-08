@@ -1,0 +1,138 @@
+{
+  "serializerVersion": 1,
+  "nodes": [
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ai-fundamentals/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-fundamentals/what-is-artificial-intelligence.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-fundamentals/machine-learning-basics.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-fundamentals/neural-networks-and-deep-learning.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-fundamentals/large-language-models.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-fundamentals/generative-ai.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ai-in-practice/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-in-practice/prompt-engineering.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-in-practice/retrieval-augmented-generation.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-in-practice/ai-agents.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-in-practice/evaluating-ai-systems.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ai-in-practice/responsible-ai.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "editor-tests/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "editor-tests/commonmark-all-representations.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "editor-tests/jones.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "editor-tests/gfm/README.md" }
+          ],
+          "children": [
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-00-test-checklist.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-01-headings-paragraphs-and-breaks.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-02-code.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-03-lists-and-task-lists.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-04-block-quotes-and-alerts.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-05-inline-formatting-and-escapes.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-06-links-images-and-autolinks.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-07-tables.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "editor-tests/gfm/gfm-08-raw-html-and-tag-filter.md" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
